@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Text Recognition</string>
+    <string name="permissionMessage">SVP needs Camera and Storage permission.</string>
+    <string name="AppFileProvider">com.svp.textrecognition.fileprovider</string>
+</resources>
